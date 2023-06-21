@@ -1,0 +1,7 @@
+Michał Żuk 1 informatyka 1500
+Adam Kot 1 informatyka 1000
+Łukasz Arek 2 chemia 700
+Tomasz Kot 1 chemia 0
+Arek Żółw 2 chemia 900
+Julian Towar 2 matematyka 1000
+Mateusz Łódka 1 matematyka 800

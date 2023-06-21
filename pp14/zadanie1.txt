@@ -1,0 +1,4 @@
+Jan,Nowak,1.85
+Zofia,Kowalska,2.30
+Tomasz,Kozak,1.60
+Klara,Rzepka,1.75

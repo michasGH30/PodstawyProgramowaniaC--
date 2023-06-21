@@ -1,0 +1,6 @@
+Kowalski Zielona_34_Siedlce Kierownik 7000.12
+Kotek Kolorowa_34/3_Siedlce Pracownik 3500.34
+Towar Fali_89_Siedlce Kierownik 7000.89
+Papuga Pocztowa_12_Siedlce Pracownik 4250.12
+Nowak Pospolita_54_Siedlce Kierownik 7950.54
+Lubiany Komputerowa_56/4_Siedlce Pracownik 3756.56

@@ -1,0 +1,14 @@
+Raport pracowników z firmy IT Siedlce znajdującej się na ulicy Siedleckiej 11
+Utworzony: 21.12.2022r.
+Sporządził: Michał Żuk
+Baza danych pracowników:
+Nazwisko: Kowalski	Adres: Zielona_34_Siedlce	Stanowisko: Kierownik	Płaca brutto: 7000.12
+Nazwisko: Kotek	Adres: Kolorowa_34/3_Siedlce	Stanowisko: Pracownik	Płaca brutto: 3500.34
+Nazwisko: Towar	Adres: Fali_89_Siedlce	Stanowisko: Kierownik	Płaca brutto: 7000.89
+Nazwisko: Papuga	Adres: Pocztowa_12_Siedlce	Stanowisko: Pracownik	Płaca brutto: 4250.12
+Nazwisko: Nowak	Adres: Pospolita_54_Siedlce	Stanowisko: Kierownik	Płaca brutto: 7950.54
+Nazwisko: Lubiany	Adres: Komputerowa_56/4_Siedlce	Stanowisko: Pracownik	Płaca brutto: 3756.56
+Podsumowanie dla stanowiska Kierownik:
+Średnie zarobki brutto: 7317.18 zł
+Pracownik z największą płacą:
+Nazwisko: Nowak	Adres: Pospolita_54_Siedlce	Stanowisko: Kierownik	Płaca brutto: 7950.54
